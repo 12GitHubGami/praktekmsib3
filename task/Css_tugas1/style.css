@@ -1,0 +1,44 @@
+body{
+    background-color: #0f172A;
+    margin: 0% 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    color: #cbcbcb;
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-shadow: 2px 2px 5px skyblue;
+    color: #ffffff;
+}
+i{
+    color:#ffffff;
+}
+a{
+    color: #ffffff  ;
+    text-decoration: none;
+}
+img{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: skyblue;
+}
+hr{
+    border-width: 1px;
+    border-color: skyblue;
+    border-style: solid;
+}
+fieldset,legend{
+    border: skyblue dotted 3px;
+    
+}
+legend{
+    border: skyblue solid 5px;
+    padding: 10px;
+    color: #ffffff;
+}
+ul{
+    list-style-image: url(image/jempol.gif);
+}
+
