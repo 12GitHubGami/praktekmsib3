@@ -1,5 +1,0 @@
-Materi berisi pelatihan tentang
-Github
-Html
-Css
-Javascript
