@@ -28,13 +28,7 @@
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
           </label>
           <label class="btn btn-sm btn-primary">
-            <input type="radio" name="shuffle-filter" value="html" />Html
-          </label>
-          <label class="btn btn-sm btn-primary">
-            <input type="radio" name="shuffle-filter" value="css" />Css
-          </label>
-          <label class="btn btn-sm btn-primary">
-            <input type="radio" name="shuffle-filter" value="design" />UI/UX
+            <input type="radio" name="shuffle-filter" value="html" />Html Css UI/UX
           </label>
           <label class="btn btn-sm btn-primary">
             <input type="radio" name="shuffle-filter" value="javascript" />Javascript
@@ -86,7 +80,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;css&quot;]">
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;html&quot;]">
         <div class="position-relative rounded hover-wrapper">
           <img src="images/task/css_tugas1.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
@@ -96,7 +90,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;]">
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;html&quot;]">
         <div class="position-relative rounded hover-wrapper">
           <img src="images/task/uiux_tugas1.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
@@ -106,7 +100,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;css&quot;]">
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;html&quot;]">
         <div class="position-relative rounded hover-wrapper">
           <img src="images/task/css_tugas2.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
@@ -116,7 +110,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;css&quot;]">
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;html&quot;]">
         <div class="position-relative rounded hover-wrapper">
           <img src="images/task/bootstrap.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
@@ -126,7 +120,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;design&quot;]">
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[&quot;html&quot;]">
         <div class="position-relative rounded hover-wrapper">
           <img src="images/task/uiux_tugas2.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
