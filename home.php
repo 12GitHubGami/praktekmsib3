@@ -7,7 +7,7 @@
       </div>
     </div>
   </div>
-  <div class="layer-bg w-100">
+  <div class="layer-bg">
     <img class="img-fluid w-100" src="images/illustrations/leaf-bg.png" alt="bg-shape">
   </div>
   <div class="layer" id="l2">
@@ -19,9 +19,7 @@
   <div class="layer" id="l4">
     <img src="images/illustrations/dots-orange.png" alt="bg-shape">
   </div>
-  <div class="layer" id="l5">
-    <img src="images/illustrations/leaf-yellow.png" alt="bg-shape">
-  </div>
+  
   <div class="layer" id="l6">
     <img src="images/illustrations/leaf-cyan.png" alt="bg-shape">
   </div>
@@ -31,7 +29,7 @@
   <div class="layer" id="l8">
     <img src="images/illustrations/leaf-pink-round.png" alt="bg-shape">
   </div>
-  <div class="layer" id="l9">
+  <div class="layer" id="l7">
     <img src="images/illustrations/leaf-cyan-2.png" alt="bg-shape">
   </div>
   
@@ -43,7 +41,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
-        <p class="font-secondary paragraph-lg text-dark">Saya Gamiat Sugani, Mahasiswa Universitas Amikom Purwokerto Jurusan Informatika. Sekarang sedang mengikuti Program Studi Independen yang diselenggarakan oleh Kampus Merdeka. Saya Belajar pada materi Fullstack Web Developer di mitra Nurul Fikri Cipta Inovasi</p>
+        <p class="font-secondary paragraph text-dark">Saya Gamiat Sugani, Mahasiswa Universitas Amikom Purwokerto Jurusan Informatika. Sekarang sedang mengikuti Program Studi Independen yang diselenggarakan oleh Kampus Merdeka. Saya Belajar pada materi Fullstack Web Developer di mitra Nurul Fikri Cipta Inovasi</p>
         <a href="index.php?hal=about" class="btn btn-transparent">know more</a>
       </div>
     </div>
